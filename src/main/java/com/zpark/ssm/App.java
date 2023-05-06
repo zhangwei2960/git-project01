@@ -5,5 +5,6 @@ public class App {
         System.out.println("hello git");
         System.out.println("hello Git! zw master second commit");
         System.out.println("hello Git! zw master third commit");
+        System.out.println("hello Git! zw hotfix first commit!");
     }
 }
